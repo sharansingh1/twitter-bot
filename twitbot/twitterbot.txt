@@ -1,0 +1,8 @@
+api key = M9ZBkRTOh1xmBshW5xRmzR0NG
+api secret key = Ip7JHjNLBqHivZ3MclnrU5r1jsslDXX8RLBCy9dOsD7tJQnvUB
+
+bearer token = AAAAAAAAAAAAAAAAAAAAAKv7iAEAAAAA%2BbqpM%2FwsfbX5z0kbty9Dk1Eothc%3D1Yzy8CBfLPSi22GWkLbLcxFH0toprk4JCa0PGzM7oym20kUxTR
+
+access token = 1581709222458187777-tZQgbeG1tF7eTcEq0wOLw3vRx52U1n
+
+access token secret = spuADcg5vWzZVc8DE9AHQSukYGNw8R9ag1DBqFgQBQN7T
